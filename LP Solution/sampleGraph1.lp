@@ -1,0 +1,12 @@
+start(a).
+dest(a).
+dest(b).
+dest(c).
+dest(d).
+dest(e).
+edge(a,b,4).
+edge(a,c,3).
+edge(c,b,2).
+edge(c,d,3).
+edge(b,e,4).
+edge(d,e,5).

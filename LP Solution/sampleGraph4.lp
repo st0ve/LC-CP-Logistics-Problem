@@ -1,0 +1,12 @@
+start(1).
+dest(5).
+dest(6).
+edge(1,2,6).
+edge(1,3,1).
+edge(1,4,5).
+edge(2,3,5).
+edge(2,5,3).
+edge(3,4,5).
+edge(3,5,6).
+edge(3,6,4).
+edge(4,6,2).
