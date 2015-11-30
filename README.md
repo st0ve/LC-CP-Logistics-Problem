@@ -2,7 +2,7 @@
 
 The logistics problem from the 2015 LP/CP Programming Contest.
 
-<a href='http://picat-lang.org/lp_cp_pc/>Contest Home Page</a> 
+<a href='http://picat-lang.org/lp_cp_pc/'>Contest Home Page</a> 
 <br />
 <a href='http://picat-lang.org/lp_cp_pc/Logistics.html'>Full Problem Description</a>
 
