@@ -2,9 +2,9 @@
 
 The logistics problem from the 2015 LP/CP Programming Contest.
 
-http://picat-lang.org/lp_cp_pc/ 
+<a href='http://picat-lang.org/lp_cp_pc/>Contest Home Page</a> 
 <br />
-http://picat-lang.org/lp_cp_pc/Logistics.html
+<a href='http://picat-lang.org/lp_cp_pc/Logistics.html'>Full Problem Description</a>
 
 
 John is a truck driver. He needs to deliver a truckload of packages to different destination cities. In each city other truck drivers can help transport part of the packages with their trucks. So nobody is required to solve the traveling salesman problem. Also, no driver is required to return to his starting city. Nevertheless, John has to pay for the distances the trucks travel, and he wants to find routes for himself and the helpers such that the total travel distance is minimized.
